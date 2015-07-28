@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">learndroid</string>
+
+    <string name="message">onCreate() method set this string into the TextView control.</string>
+    <string name="action_settings">Settings</string>
+</resources>
